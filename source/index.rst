@@ -47,3 +47,4 @@ Assuming you scale and buy a new server every year, here is how server costs wor
    hardware
    software
    key-information
+   blog/index
