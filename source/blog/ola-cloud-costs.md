@@ -49,6 +49,6 @@ Once the migration is done, you can see the costs comes down to zero. However th
 
 ## Conclusion
 
-In this post, we have understood that cloud is just a collection of computer with power and network. We saw that you pay for cloud by paying rent for these computers. We then analyzed Ola's spend on Azure. From our calculations, it looks like Ola is spending 18 lakhs INR per year on cloud and 85 lakhs when they wanted to migrate out. The cost structure paint a high-maintenance and somewhat abusive relationship. It's no wonder why Ola wants to breakup with Azure.
+In this post, we have understood that cloud is just a collection of computers with power and network. We saw that you pay for cloud by paying rent for these computers. We then analyzed Ola's spend on Azure. From our calculations, it looks like Ola is spending 18 crores INR per year on Azure cloud and paid 85 lakhs when they wanted to migrate out of it. The cost structure paint a high-maintenance and somewhat abusive relationship. It's no wonder why Ola wants to breakup with Azure.
 
 Knowing just these costs is not enough. We will want to evaluate an alternative to renting computers: buying computers. In a future post, we'll examine how much it will cost for Ola to buy computers for their workloads.
